@@ -1,0 +1,90 @@
+# English translations for p package.
+# Copyright (C) 2020 THE p'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the p package.
+# Juan Ramil <ram@ramudc>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: p 1repo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-26 12:41+0100\n"
+"PO-Revision-Date: 2020-10-26 12:41+0100\n"
+"Last-Translator: Juan Ramil <ram@ramudc>\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: controlador.py:25 vista.py:110
+msgid "Ascendente"
+msgstr "Ascendant"
+
+#: controlador.py:27 vista.py:114
+msgid "Descendente"
+msgstr "Falling"
+
+#: modelo.py:19
+msgid "Do"
+msgstr "C"
+
+#: modelo.py:19
+msgid "Do♯/Re♭"
+msgstr "C♯/D♭"
+
+#: modelo.py:19
+msgid "Re"
+msgstr "D"
+
+#: modelo.py:19
+msgid "Re♯/Mi♭"
+msgstr "D♯/E♭"
+
+#: modelo.py:19
+msgid "Mi"
+msgstr "E"
+
+#: modelo.py:19
+msgid "Fa"
+msgstr "F"
+
+#: modelo.py:19
+msgid "Fa♯/Sol♭"
+msgstr "F♯/G♭"
+
+#: modelo.py:19
+msgid "Sol"
+msgstr "G"
+
+#: modelo.py:19
+msgid "Sol♯/La♭"
+msgstr "G♯/A♭"
+
+#: modelo.py:19
+msgid "La"
+msgstr "A"
+
+#: modelo.py:19
+msgid "La♯/Si♭"
+msgstr "A♯/B♭"
+
+#: modelo.py:19
+msgid "Si"
+msgstr "B"
+
+#: vista.py:32
+msgid "Nombre"
+msgstr "Name"
+
+#: vista.py:52
+msgid "<big>Ejemplo de notas</big>"
+msgstr "<big>Notes example</big>"
+
+#: vista.py:84
+msgid "Cliente Musical"
+msgstr "Musical client"
+
+#: vista.py:116
+msgid "Reintentar conexión"
+msgstr "Retry conection"
